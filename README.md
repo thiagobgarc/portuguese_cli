@@ -1,6 +1,6 @@
 # portuguese_cli
 
-portuguese-learning-cli/
+## portuguese-learning-cli/
 │
 ├── app/
 │   ├── __init__.py
