@@ -12,6 +12,7 @@ The project is built in Python using a modular, scalable architecture designed f
 💾 Persistent Storage — Saves vocabulary and user progress locally (JSON / optional SQLite)
 🧩 Modular Design — Easy to extend with new learning features (verbs, conjugation, audio, etc.)
 🧱 Project Structure
+```text
 portuguese_cli/
 │
 ├── main.py
@@ -66,6 +67,7 @@ portuguese_cli/
 │
 ├── requirements.txt
 └── README.md
+```
 🧠 Design Philosophy
 
 This project is structured around feature isolation + clean separation of concerns:
