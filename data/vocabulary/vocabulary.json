@@ -1,0 +1,637 @@
+[
+    {
+        "portuguese": "Olá",
+        "english": "Hello",
+        "category": "greeting"
+    },
+    {
+        "portuguese": "Tchau",
+        "english": "Goodbye",
+        "category": "greeting"
+    },
+    {
+        "portuguese": "Obrigado",
+        "english": "Thank you",
+        "category": "greeting"
+    },
+    {
+        "portuguese": "Por favor",
+        "english": "Please",
+        "category": "greeting"
+    },
+    {
+        "portuguese": "Desculpe",
+        "english": "Sorry",
+        "category": "greeting"
+    },
+    {
+        "portuguese": "Sim",
+        "english": "Yes",
+        "category": "greeting"
+    },
+    {
+        "portuguese": "Não",
+        "english": "No",
+        "category": "greeting"
+    },
+    {
+        "portuguese": "Amigo",
+        "english": "Friend",
+        "category": "relationship"
+    },
+    {
+        "portuguese": "Família",
+        "english": "Family",
+        "category": "relationship"
+    },
+    {
+        "portuguese": "Casa",
+        "english": "House",
+        "category": "place"
+    },
+    {
+        "portuguese": "Comida",
+        "english": "Food",
+        "category": "object"
+    },
+    {
+        "portuguese": "Água",
+        "english": "Water",
+        "category": "object"
+    },
+    {
+        "portuguese": "Trabalho",
+        "english": "Work",
+        "category": "activity"
+    },
+    {
+        "portuguese": "Escola",
+        "english": "School",
+        "category": "place"
+    },
+    {
+        "portuguese": "Carro",
+        "english": "Car",
+        "category": "object"
+    },
+    {
+        "portuguese": "Cidade",
+        "english": "City",
+        "category": "place"
+    },
+    {
+        "portuguese": "País",
+        "english": "Country",
+        "category": "place"
+    },
+    {
+        "portuguese": "Mundo",
+        "english": "World",
+        "category": "place"
+    },
+    {
+        "portuguese": "Amor",
+        "english": "Love",
+        "category": "emotion"
+    },
+    {
+        "portuguese": "Felicidade",
+        "english": "Happiness",
+        "category": "emotion"
+    },
+    {
+        "portuguese": "Tristeza",
+        "english": "Sadness",
+        "category": "emotion"
+    },
+    {
+        "portuguese": "Saúde",
+        "english": "Health",
+        "category": "object"
+    },
+    {
+        "portuguese": "Dinheiro",
+        "english": "Money",
+        "category": "object"
+    },
+    {
+        "portuguese": "Tempo",
+        "english": "Time",
+        "category": "object"
+    },
+    {
+        "portuguese": "Vida",
+        "english": "Life",
+        "category": "object"
+    },
+    {
+        "portuguese": "Morte",
+        "english": "Death",
+        "category": "object"
+    },
+    {
+        "portuguese": "Futuro",
+        "english": "Future",
+        "category": "object"
+    },
+    {
+        "portuguese": "Passado",
+        "english": "Past",
+        "category": "object"
+    },
+    {
+        "portuguese": "Presente",
+        "english": "Present",
+        "category": "object"
+    },
+    {
+        "portuguese": "Amizade",
+        "english": "Friendship",
+        "category": "relationship"
+    },
+    {
+        "portuguese": "Paz",
+        "english": "Peace",
+        "category": "object"
+    },
+    {
+        "portuguese": "Guerra",
+        "english": "War",
+        "category": "object"
+    },
+    {
+        "portuguese": "Liberdade",
+        "english": "Freedom",
+        "category": "object"
+    },
+    {
+        "portuguese": "Justiça",
+        "english": "Justice",
+        "category": "object"
+    },
+    {
+        "portuguese": "Igualdade",
+        "english": "Equality",
+        "category": "object"
+    },
+    {
+        "portuguese": "Direitos",
+        "english": "Rights",
+        "category": "object"
+    },
+    {
+        "portuguese": "Democracia",
+        "english": "Democracy",
+        "category": "goverment"
+    },
+    {
+        "portuguese": "Cultura",
+        "english": "Culture",
+        "category": "object"
+    },
+    {
+        "portuguese": "Arte",
+        "english": "Art",
+        "category": "education"
+    },
+    {
+        "portuguese": "Música",
+        "english": "Music",
+        "category": "education"
+    },
+    {
+        "portuguese": "Literatura",
+        "english": "Literature",
+        "category": "education"
+    },
+    {
+        "portuguese": "Ciência",
+        "english": "Science",
+        "category": "education"
+    },
+    {
+        "portuguese": "Tecnologia",
+        "english": "Technology",
+        "category": "education"
+    },
+    {
+        "portuguese": "Educação",
+        "english": "Education",
+        "category": "education"
+    },
+    {
+        "portuguese": "Saúde",
+        "english": "Health",
+        "category": "lifestyle"
+    },
+    {
+        "portuguese": "Meio ambiente",
+        "english": "Environment",
+        "category": "life"
+    },
+    {
+        "portuguese": "Clima",
+        "english": "Climate",
+        "category": "life"
+    },
+    {
+        "portuguese": "Natureza",
+        "english": "Nature",
+        "category": "life"
+    },
+    {
+        "portuguese": "Animais",
+        "english": "Animals",
+        "category": "life"
+    },
+    {
+        "portuguese": "Plantas",
+        "english": "Plants",
+        "category": "life"
+    },
+    {
+        "portuguese": "Mar",
+        "english": "Sea",
+        "category": "place"
+    },
+    {
+        "portuguese": "Montanha",
+        "english": "Mountain",
+        "category": "place"
+    },
+    {
+        "portuguese": "Rio",
+        "english": "River",
+        "category": "place"
+    },
+    {
+        "portuguese": "Lago",
+        "english": "Lake",
+        "category": "place"
+    },
+    {
+        "portuguese": "Floresta",
+        "english": "Forest",
+        "category": "place"
+    },
+    {
+        "portuguese": "Deserto",
+        "english": "Desert",
+        "category": "place"
+    },
+    {
+        "portuguese": "Céu",
+        "english": "Sky",
+        "category": "place"
+    },
+    {
+        "portuguese": "Estrela",
+        "english": "Star",
+        "category": "object"
+    },
+    {
+        "portuguese": "Lua",
+        "english": "Moon",
+        "category": "object"
+    },
+    {
+        "portuguese": "Sol",
+        "english": "Sun",
+        "category": "object"
+    },
+    {
+        "portuguese": "Vento",
+        "english": "Wind",
+        "category": "object"
+    },
+    {
+        "portuguese": "Chuva",
+        "english": "Rain",
+        "category": "object"
+    },
+    {
+        "portuguese": "Neve",
+        "english": "Snow",
+        "category": "object"
+    },
+    {
+        "portuguese": "Tempestade",
+        "english": "Storm",
+        "category": "object"
+    },
+    {
+        "portuguese": "Fogo",
+        "english": "Fire",
+        "category": "object"
+    },
+    {
+        "portuguese": "Terra",
+        "english": "Earth",
+        "category": "object"
+    },
+    {
+        "portuguese": "Água",
+        "english": "Water",
+        "category": "object"
+    },
+    {
+        "portuguese": "Ar",
+        "english": "Air",
+        "category": "object"
+    },
+    {
+        "portuguese": "Ferro",
+        "english": "Iron",
+        "category": "object"
+    },
+    {
+        "portuguese": "Ouro",
+        "english": "Gold",
+        "category": "object"
+    },
+    {
+        "portuguese": "Prata",
+        "english": "Silver",
+        "category": "object"
+    },
+    {
+        "portuguese": "Cobre",
+        "english": "Copper",
+        "category": "object"
+    },
+    {
+        "portuguese": "Alumínio",
+        "english": "Aluminum",
+        "category": "object"
+    },
+    {
+        "portuguese": "Chumbo",
+        "english": "Lead",
+        "category": "object"
+    },
+    {
+        "portuguese": "Zinco",
+        "english": "Zinc",
+        "category": "object"
+    },
+    {
+        "portuguese": "Níquel",
+        "english": "Nickel",
+        "category": "object"
+    },
+    {
+        "portuguese": "Cobalto",
+        "english": "Cobalt",
+        "category": "object"
+    },
+    {
+        "portuguese": "Manganês",
+        "english": "Manganese",
+        "category": "object"
+    },
+    {
+        "portuguese": "Cromo",
+        "english": "Chromium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Vanádio",
+        "english": "Vanadium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Titânio",
+        "english": "Titanium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Tungstênio",
+        "english": "Tungsten",
+        "category": "object"
+    },
+    {
+        "portuguese": "Molibdênio",
+        "english": "Molybdenum",
+        "category": "object"
+    },
+    {
+        "portuguese": "Ródio",
+        "english": "Rhodium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Paládio",
+        "english": "Palladium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Platina",
+        "english": "Platinum",
+        "category": "object"
+    },
+    {
+        "portuguese": "Mercúrio",
+        "english": "Mercury",
+        "category": "object"
+    },
+    {
+        "portuguese": "Bismuto",
+        "english": "Bismuth",
+        "category": "object"
+    },
+    {
+        "portuguese": "Cádmio",
+        "english": "Cadmium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Antimônio",
+        "english": "Antimony",
+        "category": "object"
+    },
+    {
+        "portuguese": "Arsênio",
+        "english": "Arsenic",
+        "category": "object"
+    },
+    {
+        "portuguese": "Selênio",
+        "english": "Selenium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Telúrio",
+        "english": "Tellurium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Polônio",
+        "english": "Polonium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Astato",
+        "english": "Astatine",
+        "category": "object"
+    },
+    {
+        "portuguese": "Radônio",
+        "english": "Radon",
+        "category": "object"
+    },
+    {
+        "portuguese": "Frâncio",
+        "english": "Francium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Rádio",
+        "english": "Radium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Actínio",
+        "english": "Actinium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Tório",
+        "english": "Thorium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Protactínio",
+        "english": "Protactinium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Urânio",
+        "english": "Uranium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Netúnio",
+        "english": "Neptunium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Plutônio",
+        "english": "Plutonium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Amerício",
+        "english": "Americium",
+        "category": "object"    
+    },
+    {
+        "portuguese": "Cúrio",
+        "english": "Curium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Berkélio",
+        "english": "Berkelium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Califórnio",
+        "english": "Californium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Einstênio",
+        "english": "Einsteinium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Férmio",
+        "english": "Fermium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Mendelévio",
+        "english": "Mendelevium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Nobélio",
+        "english": "Nobelium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Laurêncio",
+        "english": "Lawrencium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Rutherfórdio",
+        "english": "Rutherfordium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Dúbnio",
+        "english": "Dubnium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Seabórgio",
+        "english": "Seaborgium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Bóhrio",
+        "english": "Bohrium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Hássio",
+        "english": "Hassium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Meitnério",
+        "english": "Meitnerium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Darmstádio",
+        "english": "Darmstadtium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Roentgênio",
+        "english": "Roentgenium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Copernício",
+        "english": "Copernicium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Nihônio",
+        "english": "Nihonium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Fleróvio",
+        "english": "Flerovium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Moscóvio",
+        "english": "Moscovium",
+        "category": "object"
+    },
+    {
+        "portuguese": "Livermório",
+        "english": "Livermorium",
+        "category": "object"
+    },
+    {
+        "portuguese": "",
+        "english": "",
+        "category": ""
+    }
+]
