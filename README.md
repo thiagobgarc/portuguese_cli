@@ -4,13 +4,13 @@ A terminal-based language learning application for studying Brazilian Portuguese
 
 The project is built in Python using a modular, scalable architecture designed for clarity, extensibility, and long-term learning features.
 
-## ✨ Features
-## 📅 Word of the Day — Learn a new Brazilian Portuguese word daily with meaning and example usage
-## 🧠 Flashcards System — Active recall-based vocabulary practice
-## ❓ Quiz Mode — Multiple-choice questions for reinforcement
-## 📊 Progress Tracking — Track accuracy, streaks, and weak words
-## 💾 Persistent Storage — Saves vocabulary and user progress locally (JSON / optional SQLite)
-## 🧩 Modular Design — Easy to extend with new learning features (verbs, conjugation, audio, etc.)
+### ✨ Features
+### 📅 Word of the Day — Learn a new Brazilian Portuguese word daily with meaning and example usage
+### 🧠 Flashcards System — Active recall-based vocabulary practice
+### ❓ Quiz Mode — Multiple-choice questions for reinforcement
+### 📊 Progress Tracking — Track accuracy, streaks, and weak words
+### 💾 Persistent Storage — Saves vocabulary and user progress locally (JSON / optional SQLite)
+### 🧩 Modular Design — Easy to extend with new learning features (verbs, conjugation, audio, etc.)
 ## 🧱 Project Structure
 ```text
 portuguese_cli/
