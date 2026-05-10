@@ -214,5 +214,297 @@
     {
         "portuguese": "Lago",
         "english": "Lake"
+    },
+    {
+        "portuguese": "Floresta",
+        "english": "Forest"
+    },
+    {
+        "portuguese": "Deserto",
+        "english": "Desert"
+    },
+    {
+        "portuguese": "Céu",
+        "english": "Sky"
+    },
+    {
+        "portuguese": "Estrela",
+        "english": "Star"
+    },
+    {
+        "portuguese": "Lua",
+        "english": "Moon"
+    },
+    {
+        "portuguese": "Sol",
+        "english": "Sun"
+    },
+    {
+        "portuguese": "Vento",
+        "english": "Wind"
+    },
+    {
+        "portuguese": "Chuva",
+        "english": "Rain"
+    },
+    {
+        "portuguese": "Neve",
+        "english": "Snow"
+    },
+    {
+        "portuguese": "Tempestade",
+        "english": "Storm"
+    },
+    {
+        "portuguese": "Fogo",
+        "english": "Fire"
+    },
+    {
+        "portuguese": "Terra",
+        "english": "Earth"
+    },
+    {
+        "portuguese": "Água",
+        "english": "Water"
+    },
+    {
+        "portuguese": "Ar",
+        "english": "Air"
+    },
+    {
+        "portuguese": "Ferro",
+        "english": "Iron"
+    },
+    {
+        "portuguese": "Ouro",
+        "english": "Gold"
+    },
+    {
+        "portuguese": "Prata",
+        "english": "Silver"
+    },
+    {
+        "portuguese": "Cobre",
+        "english": "Copper"
+    },
+    {
+        "portuguese": "Alumínio",
+        "english": "Aluminum"
+    },
+    {
+        "portuguese": "Chumbo",
+        "english": "Lead"
+    },
+    {
+        "portuguese": "Zinco",
+        "english": "Zinc"
+    },
+    {
+        "portuguese": "Níquel",
+        "english": "Nickel"
+    },
+    {
+        "portuguese": "Cobalto",
+        "english": "Cobalt"
+    },
+    {
+        "portuguese": "Manganês",
+        "english": "Manganese"
+    },
+    {
+        "portuguese": "Cromo",
+        "english": "Chromium"
+    },
+    {
+        "portuguese": "Vanádio",
+        "english": "Vanadium"
+    },
+    {
+        "portuguese": "Titânio",
+        "english": "Titanium"
+    },
+    {
+        "portuguese": "Tungstênio",
+        "english": "Tungsten"
+    },
+    {
+        "portuguese": "Molibdênio",
+        "english": "Molybdenum"
+    },
+    {
+        "portuguese": "Ródio",
+        "english": "Rhodium"
+    },
+    {
+        "portuguese": "Paládio",
+        "english": "Palladium"
+    },
+    {
+        "portuguese": "Platina",
+        "english": "Platinum"
+    },
+    {
+        "portuguese": "Mercúrio",
+        "english": "Mercury"
+    },
+    {
+        "portuguese": "Bismuto",
+        "english": "Bismuth"
+    },
+    {
+        "portuguese": "Cádmio",
+        "english": "Cadmium"
+    },
+    {
+        "portuguese": "Antimônio",
+        "english": "Antimony"
+    },
+    {
+        "portuguese": "Arsênio",
+        "english": "Arsenic"
+    },
+    {
+        "portuguese": "Selênio",
+        "english": "Selenium"
+    },
+    {
+        "portuguese": "Telúrio",
+        "english": "Tellurium"
+    },
+    {
+        "portuguese": "Polônio",
+        "english": "Polonium"
+    },
+    {
+        "portuguese": "Astato",
+        "english": "Astatine"
+    },
+    {
+        "portuguese": "Radônio",
+        "english": "Radon"
+    },
+    {
+        "portuguese": "Frâncio",
+        "english": "Francium"
+    },
+    {
+        "portuguese": "Rádio",
+        "english": "Radium"
+    },
+    {
+        "portuguese": "Actínio",
+        "english": "Actinium"
+    },
+    {
+        "portuguese": "Tório",
+        "english": "Thorium"
+    },
+    {
+        "portuguese": "Protactínio",
+        "english": "Protactinium"
+    },
+    {
+        "portuguese": "Urânio",
+        "english": "Uranium"
+    },
+    {
+        "portuguese": "Netúnio",
+        "english": "Neptunium"
+    },
+    {
+        "portuguese": "Plutônio",
+        "english": "Plutonium"
+    },
+    {
+        "portuguese": "Amerício",
+        "english": "Americium"
+    },
+    {
+        "portuguese": "Cúrio",
+        "english": "Curium"
+    },
+    {
+        "portuguese": "Berkélio",
+        "english": "Berkelium"
+    },
+    {
+        "portuguese": "Califórnio",
+        "english": "Californium"
+    },
+    {
+        "portuguese": "Einstênio",
+        "english": "Einsteinium"
+    },
+    {
+        "portuguese": "Férmio",
+        "english": "Fermium"
+    },
+    {
+        "portuguese": "Mendelévio",
+        "english": "Mendelevium"
+    },
+    {
+        "portuguese": "Nobélio",
+        "english": "Nobelium"
+    },
+    {
+        "portuguese": "Laurêncio",
+        "english": "Lawrencium"
+    },
+    {
+        "portuguese": "Rutherfórdio",
+        "english": "Rutherfordium"
+    },
+    {
+        "portuguese": "Dúbnio",
+        "english": "Dubnium"
+    },
+    {
+        "portuguese": "Seabórgio",
+        "english": "Seaborgium"
+    },
+    {
+        "portuguese": "Bóhrio",
+        "english": "Bohrium"
+    },
+    {
+        "portuguese": "Hássio",
+        "english": "Hassium"
+    },
+    {
+        "portuguese": "Meitnério",
+        "english": "Meitnerium"
+    },
+    {
+        "portuguese": "Darmstádio",
+        "english": "Darmstadtium"
+    },
+    {
+        "portuguese": "Roentgênio",
+        "english": "Roentgenium"
+    },
+    {
+        "portuguese": "Copernício",
+        "english": "Copernicium"
+    },
+    {
+        "portuguese": "Nihônio",
+        "english": "Nihonium"
+    },
+    {
+        "portuguese": "Fleróvio",
+        "english": "Flerovium"
+    },
+    {
+        "portuguese": "Moscóvio",
+        "english": "Moscovium"
+    },
+    {
+        "portuguese": "Livermório",
+        "english": "Livermorium"
+    },
+    {
+        "portuguese": "",
+        "english": ""
     }
 ]
