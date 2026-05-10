@@ -2,10 +2,10 @@ import random
 from app.services.services import load_words
 
 class Flashcard:
-    def __init__(self, words, score, total_questions):
-        self.words = words
-        self.score = score
-        self.total_questions = total_questions
+    def __init__(self):
+        self.words = load_words()
+        self.score = 0
+        self.total_questions = 0
 
     
     def get_random_word(self):
@@ -17,7 +17,7 @@ class Flashcard:
 
         input("\nPress Enter to see answer...")
 
-        print(f"English: {card['English']}")
+        print(f"English: {card['english']}")
     
     def start_flashcards(self):
         while True:
