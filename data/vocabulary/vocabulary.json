@@ -1,147 +1,183 @@
 [
     {
         "portuguese": "Olá",
-        "english": "Hello"
+        "english": "Hello",
+        "category": "greeting"
     },
     {
         "portuguese": "Tchau",
-        "english": "Goodbye"
+        "english": "Goodbye",
+        "category": "greeting"
     },
     {
         "portuguese": "Obrigado",
-        "english": "Thank you"
+        "english": "Thank you",
+        "category": "greeting"
     },
     {
         "portuguese": "Por favor",
-        "english": "Please"
+        "english": "Please",
+        "category": "greeting"
     },
     {
         "portuguese": "Desculpe",
-        "english": "Sorry"
+        "english": "Sorry",
+        "category": "greeting"
     },
     {
         "portuguese": "Sim",
-        "english": "Yes"
+        "english": "Yes",
+        "category": "greeting"
     },
     {
         "portuguese": "Não",
-        "english": "No"
+        "english": "No",
+        "category": "greeting"
     },
     {
         "portuguese": "Amigo",
-        "english": "Friend"
+        "english": "Friend",
+        "category": "relationship"
     },
     {
         "portuguese": "Família",
-        "english": "Family"
+        "english": "Family",
+        "category": "relationship"
     },
     {
         "portuguese": "Casa",
-        "english": "House"
+        "english": "House",
+        "category": "place"
     },
     {
         "portuguese": "Comida",
-        "english": "Food"
+        "english": "Food",
+        "category": "object"
     },
     {
         "portuguese": "Água",
-        "english": "Water"
+        "english": "Water",
+        "category": "object"
     },
     {
         "portuguese": "Trabalho",
-        "english": "Work"
+        "english": "Work",
+        "category": "activity"
     },
     {
         "portuguese": "Escola",
-        "english": "School"
+        "english": "School",
+        "category": "place"
     },
     {
         "portuguese": "Carro",
-        "english": "Car"
+        "english": "Car",
+        "category": "object"
     },
     {
         "portuguese": "Cidade",
-        "english": "City"
+        "english": "City",
+        "category": "place"
     },
     {
         "portuguese": "País",
-        "english": "Country"
+        "english": "Country",
+        "category": "place"
     },
     {
         "portuguese": "Mundo",
-        "english": "World"
+        "english": "World",
+        "category": "place"
     },
     {
         "portuguese": "Amor",
-        "english": "Love"
+        "english": "Love",
+        "category": "emotion"
     },
     {
         "portuguese": "Felicidade",
-        "english": "Happiness"
+        "english": "Happiness",
+        "category": "emotion"
     },
     {
         "portuguese": "Tristeza",
-        "english": "Sadness"
+        "english": "Sadness",
+        "category": "emotion"
     },
     {
         "portuguese": "Saúde",
-        "english": "Health"
+        "english": "Health",
+        "category": "object"
     },
     {
         "portuguese": "Dinheiro",
-        "english": "Money"
+        "english": "Money",
+        "category": "object"
     },
     {
         "portuguese": "Tempo",
-        "english": "Time"
+        "english": "Time",
+        "category": "object"
     },
     {
         "portuguese": "Vida",
-        "english": "Life"
+        "english": "Life",
+        "category": "object"
     },
     {
         "portuguese": "Morte",
-        "english": "Death"
+        "english": "Death",
+        "category": "object"
     },
     {
         "portuguese": "Futuro",
-        "english": "Future"
+        "english": "Future",
+        "category": "object"
     },
     {
         "portuguese": "Passado",
-        "english": "Past"
+        "english": "Past",
+        "category": "object"
     },
     {
         "portuguese": "Presente",
-        "english": "Present"
+        "english": "Present",
+        "category": "object"
     },
     {
         "portuguese": "Amizade",
-        "english": "Friendship"
+        "english": "Friendship",
+        "category": "relationship"
     },
     {
         "portuguese": "Paz",
-        "english": "Peace"
+        "english": "Peace",
+        "category": "object"
     },
     {
         "portuguese": "Guerra",
-        "english": "War"
+        "english": "War",
+        "category": "object"
     },
     {
         "portuguese": "Liberdade",
-        "english": "Freedom"
+        "english": "Freedom",
+        "category": "object"
     },
     {
         "portuguese": "Justiça",
-        "english": "Justice"
+        "english": "Justice",
+        "category": "object"
     },
     {
         "portuguese": "Igualdade",
-        "english": "Equality"
+        "english": "Equality",
+        "category": "object"
     },
     {
         "portuguese": "Direitos",
-        "english": "Rights"
+        "english": "Rights",
+        "category": "object"
     },
     {
         "portuguese": "Democracia",
@@ -149,39 +185,48 @@
     },
     {
         "portuguese": "Cultura",
-        "english": "Culture"
+        "english": "Culture",
+        "category": "object"
     },
     {
         "portuguese": "Arte",
-        "english": "Art"
+        "english": "Art",
+        "category": "Education"
     },
     {
         "portuguese": "Música",
-        "english": "Music"
+        "english": "Music",
+        "category": "Education"
     },
     {
         "portuguese": "Literatura",
-        "english": "Literature"
+        "english": "Literature",
+        "category": "Education"
     },
     {
         "portuguese": "Ciência",
-        "english": "Science"
+        "english": "Science",
+        "category": "Education"
     },
     {
         "portuguese": "Tecnologia",
-        "english": "Technology"
+        "english": "Technology",
+        "category": "Education"
     },
     {
         "portuguese": "Educação",
-        "english": "Education"
+        "english": "Education",
+        "category": "Education"
     },
     {
         "portuguese": "Saúde",
-        "english": "Health"
+        "english": "Health",
+        "category": "Lifestyle"
     },
     {
         "portuguese": "Meio ambiente",
-        "english": "Environment"
+        "english": "Environment",
+        "category": "Life"
     },
     {
         "portuguese": "Clima",

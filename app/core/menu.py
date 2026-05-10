@@ -1,6 +1,7 @@
 from app.features.flashcards.flashcards import Flashcard
 from app.features.word_of_the_day.word_of_the_day import WordOfTheDay
 from app.services.services import load_words
+from app.features.category.category import category_menu
 
 def main_menu():
     while True:
@@ -18,6 +19,10 @@ def main_menu():
         elif choice == "2":
             session = WordOfTheDay(load_words())
             session.display_word()
+
         elif choice == "3":
+            category_menu()
+
+        elif choice == "4":
             print("Goodbye!")
             break

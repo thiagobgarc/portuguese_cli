@@ -1,9 +1,14 @@
 import random
 from app.services.services import load_words
+from app.services.services import get_words_by_category
 
 class Flashcard:
-    def __init__(self):
-        self.words = load_words()
+    def __init__(self, category=None):
+        if category:
+            self.words = get_words_by_category(category) 
+        else:
+            self.words = load_words()
+
         self.correct_answers = 0
         self.incorrect_answers = 0
 
@@ -33,7 +38,7 @@ class Flashcard:
         else:
             accuracy = (self.correct_answers / total) * 100
 
-        print("]n=== SCORE ===")
+        print("\n=== SCORE ===")
         print(f"Correct: {self.correct_answers}")
         print(f"Incorrect: {self.incorrect_answers}")
         print(f"Accuracy: {accuracy:.2f}%")
