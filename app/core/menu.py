@@ -5,7 +5,8 @@ def main_menu():
     while True:
         print("\n=== Brazilian Portuguese CLI ===")
         print("1. Flash Cards")
-        print("2. Exit")
+        print("2. Word of the Day")
+        print("3. Exit")
 
         choice = input("\nChoose an option: ")
 
