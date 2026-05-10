@@ -1,3 +1,5 @@
+### v0.1.0-beta
+
 # 🇧🇷 Brazilian Portuguese Learning CLI
 
 A terminal-based language learning application for studying Brazilian Portuguese (Brazilian Portuguese language). The goal of this project is to help users build vocabulary and reinforce learning through active recall techniques like flashcards, quizzes, and a word-of-the-day system.
