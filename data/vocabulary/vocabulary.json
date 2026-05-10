@@ -106,5 +106,113 @@
     {
         "portuguese": "Futuro",
         "english": "Future"
+    },
+    {
+        "portuguese": "Passado",
+        "english": "Past"
+    },
+    {
+        "portuguese": "Presente",
+        "english": "Present"
+    },
+    {
+        "portuguese": "Amizade",
+        "english": "Friendship"
+    },
+    {
+        "portuguese": "Paz",
+        "english": "Peace"
+    },
+    {
+        "portuguese": "Guerra",
+        "english": "War"
+    },
+    {
+        "portuguese": "Liberdade",
+        "english": "Freedom"
+    },
+    {
+        "portuguese": "Justiça",
+        "english": "Justice"
+    },
+    {
+        "portuguese": "Igualdade",
+        "english": "Equality"
+    },
+    {
+        "portuguese": "Direitos",
+        "english": "Rights"
+    },
+    {
+        "portuguese": "Democracia",
+        "english": "Democracy"
+    },
+    {
+        "portuguese": "Cultura",
+        "english": "Culture"
+    },
+    {
+        "portuguese": "Arte",
+        "english": "Art"
+    },
+    {
+        "portuguese": "Música",
+        "english": "Music"
+    },
+    {
+        "portuguese": "Literatura",
+        "english": "Literature"
+    },
+    {
+        "portuguese": "Ciência",
+        "english": "Science"
+    },
+    {
+        "portuguese": "Tecnologia",
+        "english": "Technology"
+    },
+    {
+        "portuguese": "Educação",
+        "english": "Education"
+    },
+    {
+        "portuguese": "Saúde",
+        "english": "Health"
+    },
+    {
+        "portuguese": "Meio ambiente",
+        "english": "Environment"
+    },
+    {
+        "portuguese": "Clima",
+        "english": "Climate"
+    },
+    {
+        "portuguese": "Natureza",
+        "english": "Nature"
+    },
+    {
+        "portuguese": "Animais",
+        "english": "Animals"
+    },
+    {
+        "portuguese": "Plantas",
+        "english": "Plants"
+    },
+    {
+        "portuguese": "Mar",
+        "english": "Sea"
+    },
+    {
+        "portuguese": "Montanha",
+        "english": "Mountain"
+    },
+    {
+        "portuguese": "Rio",
+        "english": "River"
+    },
+    {
+        "portuguese": "Lago",
+        "english": "Lake"
     }
 ]
