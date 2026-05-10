@@ -1,17 +1,17 @@
-🇧🇷 Brazilian Portuguese Learning CLI
+# 🇧🇷 Brazilian Portuguese Learning CLI
 
 A terminal-based language learning application for studying Brazilian Portuguese (Brazilian Portuguese language). The goal of this project is to help users build vocabulary and reinforce learning through active recall techniques like flashcards, quizzes, and a word-of-the-day system.
 
 The project is built in Python using a modular, scalable architecture designed for clarity, extensibility, and long-term learning features.
 
-✨ Features
-📅 Word of the Day — Learn a new Brazilian Portuguese word daily with meaning and example usage
-🧠 Flashcards System — Active recall-based vocabulary practice
-❓ Quiz Mode — Multiple-choice questions for reinforcement
-📊 Progress Tracking — Track accuracy, streaks, and weak words
-💾 Persistent Storage — Saves vocabulary and user progress locally (JSON / optional SQLite)
-🧩 Modular Design — Easy to extend with new learning features (verbs, conjugation, audio, etc.)
-🧱 Project Structure
+### ✨ Features
+### 📅 Word of the Day — Learn a new Brazilian Portuguese word daily with meaning and example usage
+### 🧠 Flashcards System — Active recall-based vocabulary practice
+### ❓ Quiz Mode — Multiple-choice questions for reinforcement
+### 📊 Progress Tracking — Track accuracy, streaks, and weak words
+### 💾 Persistent Storage — Saves vocabulary and user progress locally (JSON / optional SQLite)
+### 🧩 Modular Design — Easy to extend with new learning features (verbs, conjugation, audio, etc.)
+## 🧱 Project Structure
 ```text
 portuguese_cli/
 │
@@ -68,7 +68,7 @@ portuguese_cli/
 ├── requirements.txt
 └── README.md
 ```
-🧠 Design Philosophy
+## 🧠 Design Philosophy
 
 This project is structured around feature isolation + clean separation of concerns:
 
@@ -84,7 +84,7 @@ scalable
 testable
 easy to extend
 cleanly separated between logic and UI
-🚀 Future Improvements
+## 🚀 Future Improvements
 Spaced repetition system improvements (SM-2 algorithm style)
 Verb conjugation trainer (especially important in Brazilian Portuguese)
 Audio pronunciation integration
