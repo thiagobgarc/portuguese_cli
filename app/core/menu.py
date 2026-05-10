@@ -1,8 +1,11 @@
+# Import necessary modules and functions
 from app.features.flashcards.flashcards import Flashcard
 from app.features.word_of_the_day.word_of_the_day import WordOfTheDay
 from app.services.services import load_words
 from app.features.category.category import category_menu
 
+# Main menu function 
+# Navigates between flashcards, word of the day, categories, and exit options
 def main_menu():
     while True:
         print("\n=== Brazilian Portuguese CLI ===")

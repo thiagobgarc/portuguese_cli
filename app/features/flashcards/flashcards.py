@@ -1,8 +1,11 @@
+# Flashcards feature for Brazilian Portuguese CLI application
 import random
 from app.services.services import load_words
 from app.services.services import get_words_by_category
 
+# Flashcard class to manage flashcard sessions
 class Flashcard:
+    # Initialize flashcard session with optional category filter
     def __init__(self, category=None):
         if category:
             self.words = get_words_by_category(category) 
