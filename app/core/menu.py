@@ -8,7 +8,8 @@ def main_menu():
         print("\n=== Brazilian Portuguese CLI ===")
         print("1. Flash Cards")
         print("2. Word of the Day")
-        print("3. Exit")
+        print("3. Categories")
+        print("4. Exit")
 
         choice = input("\nChoose an option: ")
 
@@ -26,3 +27,6 @@ def main_menu():
         elif choice == "4":
             print("Goodbye!")
             break
+
+        else:
+            print("Invalid option.")

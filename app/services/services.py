@@ -15,5 +15,5 @@ def get_words_by_category(category):
 
     return [
         word for word in words
-        if word["category"].lower() == category.lower()
+        if word.get("category", "").lower() == category.lower()
     ]

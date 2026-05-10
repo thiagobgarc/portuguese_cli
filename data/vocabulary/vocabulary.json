@@ -181,7 +181,8 @@
     },
     {
         "portuguese": "Democracia",
-        "english": "Democracy"
+        "english": "Democracy",
+        "category": "goverment"
     },
     {
         "portuguese": "Cultura",
@@ -191,365 +192,446 @@
     {
         "portuguese": "Arte",
         "english": "Art",
-        "category": "Education"
+        "category": "education"
     },
     {
         "portuguese": "Música",
         "english": "Music",
-        "category": "Education"
+        "category": "education"
     },
     {
         "portuguese": "Literatura",
         "english": "Literature",
-        "category": "Education"
+        "category": "education"
     },
     {
         "portuguese": "Ciência",
         "english": "Science",
-        "category": "Education"
+        "category": "education"
     },
     {
         "portuguese": "Tecnologia",
         "english": "Technology",
-        "category": "Education"
+        "category": "education"
     },
     {
         "portuguese": "Educação",
         "english": "Education",
-        "category": "Education"
+        "category": "education"
     },
     {
         "portuguese": "Saúde",
         "english": "Health",
-        "category": "Lifestyle"
+        "category": "lifestyle"
     },
     {
         "portuguese": "Meio ambiente",
         "english": "Environment",
-        "category": "Life"
+        "category": "life"
     },
     {
         "portuguese": "Clima",
-        "english": "Climate"
+        "english": "Climate",
+        "category": "life"
     },
     {
         "portuguese": "Natureza",
-        "english": "Nature"
+        "english": "Nature",
+        "category": "life"
     },
     {
         "portuguese": "Animais",
-        "english": "Animals"
+        "english": "Animals",
+        "category": "life"
     },
     {
         "portuguese": "Plantas",
-        "english": "Plants"
+        "english": "Plants",
+        "category": "life"
     },
     {
         "portuguese": "Mar",
-        "english": "Sea"
+        "english": "Sea",
+        "category": "place"
     },
     {
         "portuguese": "Montanha",
-        "english": "Mountain"
+        "english": "Mountain",
+        "category": "place"
     },
     {
         "portuguese": "Rio",
-        "english": "River"
+        "english": "River",
+        "category": "place"
     },
     {
         "portuguese": "Lago",
-        "english": "Lake"
+        "english": "Lake",
+        "category": "place"
     },
     {
         "portuguese": "Floresta",
-        "english": "Forest"
+        "english": "Forest",
+        "category": "place"
     },
     {
         "portuguese": "Deserto",
-        "english": "Desert"
+        "english": "Desert",
+        "category": "place"
     },
     {
         "portuguese": "Céu",
-        "english": "Sky"
+        "english": "Sky",
+        "category": "place"
     },
     {
         "portuguese": "Estrela",
-        "english": "Star"
+        "english": "Star",
+        "category": "object"
     },
     {
         "portuguese": "Lua",
-        "english": "Moon"
+        "english": "Moon",
+        "category": "object"
     },
     {
         "portuguese": "Sol",
-        "english": "Sun"
+        "english": "Sun",
+        "category": "object"
     },
     {
         "portuguese": "Vento",
-        "english": "Wind"
+        "english": "Wind",
+        "category": "object"
     },
     {
         "portuguese": "Chuva",
-        "english": "Rain"
+        "english": "Rain",
+        "category": "object"
     },
     {
         "portuguese": "Neve",
-        "english": "Snow"
+        "english": "Snow",
+        "category": "object"
     },
     {
         "portuguese": "Tempestade",
-        "english": "Storm"
+        "english": "Storm",
+        "category": "object"
     },
     {
         "portuguese": "Fogo",
-        "english": "Fire"
+        "english": "Fire",
+        "category": "object"
     },
     {
         "portuguese": "Terra",
-        "english": "Earth"
+        "english": "Earth",
+        "category": "object"
     },
     {
         "portuguese": "Água",
-        "english": "Water"
+        "english": "Water",
+        "category": "object"
     },
     {
         "portuguese": "Ar",
-        "english": "Air"
+        "english": "Air",
+        "category": "object"
     },
     {
         "portuguese": "Ferro",
-        "english": "Iron"
+        "english": "Iron",
+        "category": "object"
     },
     {
         "portuguese": "Ouro",
-        "english": "Gold"
+        "english": "Gold",
+        "category": "object"
     },
     {
         "portuguese": "Prata",
-        "english": "Silver"
+        "english": "Silver",
+        "category": "object"
     },
     {
         "portuguese": "Cobre",
-        "english": "Copper"
+        "english": "Copper",
+        "category": "object"
     },
     {
         "portuguese": "Alumínio",
-        "english": "Aluminum"
+        "english": "Aluminum",
+        "category": "object"
     },
     {
         "portuguese": "Chumbo",
-        "english": "Lead"
+        "english": "Lead",
+        "category": "object"
     },
     {
         "portuguese": "Zinco",
-        "english": "Zinc"
+        "english": "Zinc",
+        "category": "object"
     },
     {
         "portuguese": "Níquel",
-        "english": "Nickel"
+        "english": "Nickel",
+        "category": "object"
     },
     {
         "portuguese": "Cobalto",
-        "english": "Cobalt"
+        "english": "Cobalt",
+        "category": "object"
     },
     {
         "portuguese": "Manganês",
-        "english": "Manganese"
+        "english": "Manganese",
+        "category": "object"
     },
     {
         "portuguese": "Cromo",
-        "english": "Chromium"
+        "english": "Chromium",
+        "category": "object"
     },
     {
         "portuguese": "Vanádio",
-        "english": "Vanadium"
+        "english": "Vanadium",
+        "category": "object"
     },
     {
         "portuguese": "Titânio",
-        "english": "Titanium"
+        "english": "Titanium",
+        "category": "object"
     },
     {
         "portuguese": "Tungstênio",
-        "english": "Tungsten"
+        "english": "Tungsten",
+        "category": "object"
     },
     {
         "portuguese": "Molibdênio",
-        "english": "Molybdenum"
+        "english": "Molybdenum",
+        "category": "object"
     },
     {
         "portuguese": "Ródio",
-        "english": "Rhodium"
+        "english": "Rhodium",
+        "category": "object"
     },
     {
         "portuguese": "Paládio",
-        "english": "Palladium"
+        "english": "Palladium",
+        "category": "object"
     },
     {
         "portuguese": "Platina",
-        "english": "Platinum"
+        "english": "Platinum",
+        "category": "object"
     },
     {
         "portuguese": "Mercúrio",
-        "english": "Mercury"
+        "english": "Mercury",
+        "category": "object"
     },
     {
         "portuguese": "Bismuto",
-        "english": "Bismuth"
+        "english": "Bismuth",
+        "category": "object"
     },
     {
         "portuguese": "Cádmio",
-        "english": "Cadmium"
+        "english": "Cadmium",
+        "category": "object"
     },
     {
         "portuguese": "Antimônio",
-        "english": "Antimony"
+        "english": "Antimony",
+        "category": "object"
     },
     {
         "portuguese": "Arsênio",
-        "english": "Arsenic"
+        "english": "Arsenic",
+        "category": "object"
     },
     {
         "portuguese": "Selênio",
-        "english": "Selenium"
+        "english": "Selenium",
+        "category": "object"
     },
     {
         "portuguese": "Telúrio",
-        "english": "Tellurium"
+        "english": "Tellurium",
+        "category": "object"
     },
     {
         "portuguese": "Polônio",
-        "english": "Polonium"
+        "english": "Polonium",
+        "category": "object"
     },
     {
         "portuguese": "Astato",
-        "english": "Astatine"
+        "english": "Astatine",
+        "category": "object"
     },
     {
         "portuguese": "Radônio",
-        "english": "Radon"
+        "english": "Radon",
+        "category": "object"
     },
     {
         "portuguese": "Frâncio",
-        "english": "Francium"
+        "english": "Francium",
+        "category": "object"
     },
     {
         "portuguese": "Rádio",
-        "english": "Radium"
+        "english": "Radium",
+        "category": "object"
     },
     {
         "portuguese": "Actínio",
-        "english": "Actinium"
+        "english": "Actinium",
+        "category": "object"
     },
     {
         "portuguese": "Tório",
-        "english": "Thorium"
+        "english": "Thorium",
+        "category": "object"
     },
     {
         "portuguese": "Protactínio",
-        "english": "Protactinium"
+        "english": "Protactinium",
+        "category": "object"
     },
     {
         "portuguese": "Urânio",
-        "english": "Uranium"
+        "english": "Uranium",
+        "category": "object"
     },
     {
         "portuguese": "Netúnio",
-        "english": "Neptunium"
+        "english": "Neptunium",
+        "category": "object"
     },
     {
         "portuguese": "Plutônio",
-        "english": "Plutonium"
+        "english": "Plutonium",
+        "category": "object"
     },
     {
         "portuguese": "Amerício",
-        "english": "Americium"
+        "english": "Americium",
+        "category": "object"    
     },
     {
         "portuguese": "Cúrio",
-        "english": "Curium"
+        "english": "Curium",
+        "category": "object"
     },
     {
         "portuguese": "Berkélio",
-        "english": "Berkelium"
+        "english": "Berkelium",
+        "category": "object"
     },
     {
         "portuguese": "Califórnio",
-        "english": "Californium"
+        "english": "Californium",
+        "category": "object"
     },
     {
         "portuguese": "Einstênio",
-        "english": "Einsteinium"
+        "english": "Einsteinium",
+        "category": "object"
     },
     {
         "portuguese": "Férmio",
-        "english": "Fermium"
+        "english": "Fermium",
+        "category": "object"
     },
     {
         "portuguese": "Mendelévio",
-        "english": "Mendelevium"
+        "english": "Mendelevium",
+        "category": "object"
     },
     {
         "portuguese": "Nobélio",
-        "english": "Nobelium"
+        "english": "Nobelium",
+        "category": "object"
     },
     {
         "portuguese": "Laurêncio",
-        "english": "Lawrencium"
+        "english": "Lawrencium",
+        "category": "object"
     },
     {
         "portuguese": "Rutherfórdio",
-        "english": "Rutherfordium"
+        "english": "Rutherfordium",
+        "category": "object"
     },
     {
         "portuguese": "Dúbnio",
-        "english": "Dubnium"
+        "english": "Dubnium",
+        "category": "object"
     },
     {
         "portuguese": "Seabórgio",
-        "english": "Seaborgium"
+        "english": "Seaborgium",
+        "category": "object"
     },
     {
         "portuguese": "Bóhrio",
-        "english": "Bohrium"
+        "english": "Bohrium",
+        "category": "object"
     },
     {
         "portuguese": "Hássio",
-        "english": "Hassium"
+        "english": "Hassium",
+        "category": "object"
     },
     {
         "portuguese": "Meitnério",
-        "english": "Meitnerium"
+        "english": "Meitnerium",
+        "category": "object"
     },
     {
         "portuguese": "Darmstádio",
-        "english": "Darmstadtium"
+        "english": "Darmstadtium",
+        "category": "object"
     },
     {
         "portuguese": "Roentgênio",
-        "english": "Roentgenium"
+        "english": "Roentgenium",
+        "category": "object"
     },
     {
         "portuguese": "Copernício",
-        "english": "Copernicium"
+        "english": "Copernicium",
+        "category": "object"
     },
     {
         "portuguese": "Nihônio",
-        "english": "Nihonium"
+        "english": "Nihonium",
+        "category": "object"
     },
     {
         "portuguese": "Fleróvio",
-        "english": "Flerovium"
+        "english": "Flerovium",
+        "category": "object"
     },
     {
         "portuguese": "Moscóvio",
-        "english": "Moscovium"
+        "english": "Moscovium",
+        "category": "object"
     },
     {
         "portuguese": "Livermório",
-        "english": "Livermorium"
+        "english": "Livermorium",
+        "category": "object"
     },
     {
         "portuguese": "",
-        "english": ""
+        "english": "",
+        "category": ""
     }
 ]

@@ -1,22 +1,33 @@
-def category_menu(self, category):
-        print("\n=== Categories ===")
-        print("1. Animals")
-        print("2. Verbs")
-        print("3. Food")
+import random
+import app.features.flashcards.flashcards as Flashcard
 
-        choice = input("\nChoose a category: ")
+def category_menu():
+    print("\n=== Categories ===")
+    print("1. Object")
+    print("2. Education")
+    print("3. Place")
+    print("4. Greetings")
+    print("5. Relationships")
+    print("6. Liberty")
+    print("7. Back to Main Menu")
 
-        category_map = {
-            "1": "animals",
-            "2": "verbs",
-            "3": "food"
-        }
+    choice = input("\nChoose category: ")
 
-        category = category_map.get(random.choice(list(category_map.keys())))
+    category_map = {
+        "1": "object",
+        "2": "education",
+        "3": "place",
+        "4": "greeting",
+        "5": "relationship",
+        "6": "liberty"
+    }
 
-        if category:
-            session = FlashcardSession(category)
-            session.start()
+    if choice == "7":
+        return
 
-        else:
-            print("Invalid category.")
+    category = category_map.get(choice)
+
+    if category:
+        from app.features.flashcards.flashcards import Flashcard
+        session = Flashcard(category)
+        session.start()

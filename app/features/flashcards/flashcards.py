@@ -43,7 +43,7 @@ class Flashcard:
         print(f"Incorrect: {self.incorrect_answers}")
         print(f"Accuracy: {accuracy:.2f}%")
     
-    def start_flashcards(self):
+    def start(self):
         while True:
             card = self.get_random_word()
             self.display_card(card)
