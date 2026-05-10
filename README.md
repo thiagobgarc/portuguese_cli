@@ -68,7 +68,7 @@ portuguese_cli/
 ├── requirements.txt
 └── README.md
 ```
-🧠 Design Philosophy
+## 🧠 Design Philosophy
 
 This project is structured around feature isolation + clean separation of concerns:
 
@@ -84,7 +84,7 @@ scalable
 testable
 easy to extend
 cleanly separated between logic and UI
-🚀 Future Improvements
+## 🚀 Future Improvements
 Spaced repetition system improvements (SM-2 algorithm style)
 Verb conjugation trainer (especially important in Brazilian Portuguese)
 Audio pronunciation integration
